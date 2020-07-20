@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-name: Waka Readme
+name: iwilsonlee Readme
 
 on:
   schedule:
@@ -11,7 +11,7 @@ on:
         with:
           WAKATIME_API_KEY: c8f695fa-b3f7-4e70-8be5-99131b650c2b
           GH_TOKEN: 7b3bfa9f5ca26a13be98d6ace8c5e3072cae0e96
-          USERNAME: <username>
+          USERNAME: iwilsonlee
           SHOW_TITLE: true
 <!--END_SECTION:waka-->
 <!--
