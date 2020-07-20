@@ -8,18 +8,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-**Weekly development breakdown**
-<!--START_SECTION:waka-->
-name: Waka Readme
-on:
-  schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
-
-- uses: iwilsonlee/iwilsonlee@master
-        with:
-          WAKATIME_API_KEY: c8f695fa-b3f7-4e70-8be5-99131b650c2b
-          GH_TOKEN: 7b3bfa9f5ca26a13be98d6ace8c5e3072cae0e96
-          USERNAME: iwilsonlee
-          SHOW_TITLE: true
-<!--END_SECTION:waka-->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iwilsonlee)](https://github.com/anuraghazra/github-readme-stats)
