@@ -7,7 +7,7 @@ on:
     # Runs at 12am UTC
     - cron: '0 0 * * *'
 
-- uses: athul/waka-readme@master
+- uses: iwilsonlee/iwilsonlee@master
         with:
           WAKATIME_API_KEY: c8f695fa-b3f7-4e70-8be5-99131b650c2b
           GH_TOKEN: 7b3bfa9f5ca26a13be98d6ace8c5e3072cae0e96
